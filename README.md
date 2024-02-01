@@ -1,6 +1,5 @@
 ### Tech
 
-
 <a title="Javascript" href="https://www.javascript.com/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" height="50" />
 </a>
