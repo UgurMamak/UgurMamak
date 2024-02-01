@@ -55,7 +55,7 @@
 <a title="MSSQL" href="https://www.javascript.com/" target="_blank">
   <img style="margin: 10px" src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg" alt="JavaScript" height="50" />
 </a>
-<a title="MSSQL" href="https://www.javascript.com/" target="_blank">
+<a title="D3" href="https://d3js.org/" target="_blank">
   <img style="margin: 10px" src="https://skillicons.dev/icons?i=d3&theme=light" alt="JavaScript" height="50" />
 </a>
 
