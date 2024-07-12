@@ -98,7 +98,7 @@ Bu tablo, hücrelerdeki renkleri HTML ve CSS kullanarak ayarlamaktadır.
 
 <table>
   <tr>
-    <th style="background-color: #f2f2f2;">Başlık 1</th>
+    <th style="background-color: red">Başlık 1</th>
     <th style="background-color: #f2f2f2;">Başlık 2</th>
     <th style="background-color: #f2f2f2;">Başlık 3</th>
   </tr>
