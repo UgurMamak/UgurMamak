@@ -92,25 +92,4 @@ Here are some ideas to get you started:
 
 
 
-# Renkli Tablo Örneği
-
-Bu tablo, hücrelerdeki renkleri HTML ve CSS kullanarak ayarlamaktadır.
-
-<table>
-  <tr>
-    <th style="background-color: #ff0000">Başlık 1</th>
-    <th style="background-color: #f2f2f2;">Başlık 2</th>
-    <th style="background-color: #f2f2f2;">Başlık 3</th>
-  </tr>
-  <tr>
-    <td style="background-color: #ffcccc;">Veri 1</td>
-    <td style="background-color: #ccffcc;">Veri 2</td>
-    <td style="background-color: #ccccff;">Veri 3</td>
-  </tr>
-  <tr>
-    <td style="background-color: #ffe6cc;">Veri 4</td>
-    <td style="background-color: #e6ccff;">Veri 5</td>
-    <td style="background-color: #ccffe6;">Veri 6</td>
-  </tr>
-</table>
 
